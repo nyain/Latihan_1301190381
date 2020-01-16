@@ -5,5 +5,8 @@ using namespace std;
 int main()
 {
     cout << "Hello world!" << endl;
-    return 0;
+    for (int i = 0; i <= 10; i++){
+        cout<<"gua ganteng\n";
+        return 0;
+    }
 }
